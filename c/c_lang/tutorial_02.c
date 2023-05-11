@@ -19,18 +19,22 @@ typedef struct Point sag;
 
 int main()
 {
-    struct Student student_01; 
+    struct Student* student_01; 
     struct Point point_01; 
 
     sag p1; 
     // initializing st_01 : 
-    strcpy(student_01.name, "Sasan khatar"); 
-    student_01.class = 2; 
-    student_01.section = "a"; 
+    strcpy(student_01->name, "Sasan khatar"); 
+    student_01->class = 2; 
+    student_01->section = 'a'; 
 
     // some memset : 
     char str[50] = "an students job is to be fucked"; 
+    printf("printing %s\n", str);
     memset(str+12, '.', 8*sizeof(char)); 
+    // printf("%s ", str); 
+    memset(str, 't', 8*sizeof(char)); 
+    printf("%s ", str); 
 
 
     return 0; 

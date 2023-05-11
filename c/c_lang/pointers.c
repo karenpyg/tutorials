@@ -1,0 +1,3 @@
+/* common pointer errors 
+
+using an uninitialized pointer */
