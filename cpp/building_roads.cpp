@@ -1,31 +1,28 @@
-#include <iostream>
-#include <vector> 
+#include <bits/stdc++.h>
 
 using namespace std;
 
-int N; 
-vector<vector<int>> adj; 
+int N;
 vector<bool> visited; 
+vector<vector<int>> adj; 
 vector<int> rep; 
-
-void dfs(int node)
-{
-    visited[node] = true; 
-    for (int u: adj[node])
-        if (!visited[u]) dfs(u);
+void dfs(int node){
+    visited[node] = true;
+    for(int n: adj[node]){
+        if(!visited[n])
+            dfs(n); 
+    }
 }
 
-int count_components()
-{
+int count_components(vector<bool>){
     int count = 0; 
-    for(int i = 1; i<=N; i++){
-        if (!visited[i]){
+    for(int i=1; i<N; i++){
+        if(!visited[i]){
             count ++; 
-            rep.push_back(i);
-            dfs(i);
+            rep.push_back(i); 
+            dfs(i); 
         }
     }
     return count;
 
 }
-

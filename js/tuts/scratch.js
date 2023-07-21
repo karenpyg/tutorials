@@ -18,6 +18,14 @@ for (let x in person){
 function isValid(domain){
 
 }
+
+const conts = [["finland", "helsinki"], ["sweden", "stockholm"]]; 
+for ([mame, dudul] of conts){
+    console.log(mame, dudul);
+}
+
+const new_map = new Map(conts); 
+new_map.set("usa", "washington-dc");
 // person.greet = function(){return this.name + ' ' + this.lastName + 'says hello to you my friend'};
 // console.log(person.greet);
 
