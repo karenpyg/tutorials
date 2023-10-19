@@ -1,0 +1,5 @@
+ LOG FILE HEADER
+ this is a test log file
+ Function: System statistics 
+ EOF
+
