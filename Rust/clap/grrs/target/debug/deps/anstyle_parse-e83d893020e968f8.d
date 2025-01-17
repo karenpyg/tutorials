@@ -1,0 +1,11 @@
+/home/d/Code/tutorials/Rust/clap/grrs/target/debug/deps/libanstyle_parse-e83d893020e968f8.rmeta: /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/lib.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/params.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/mod.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/definitions.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/table.rs
+
+/home/d/Code/tutorials/Rust/clap/grrs/target/debug/deps/libanstyle_parse-e83d893020e968f8.rlib: /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/lib.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/params.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/mod.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/definitions.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/table.rs
+
+/home/d/Code/tutorials/Rust/clap/grrs/target/debug/deps/anstyle_parse-e83d893020e968f8.d: /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/lib.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/params.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/mod.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/definitions.rs /home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/table.rs
+
+/home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/lib.rs:
+/home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/params.rs:
+/home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/mod.rs:
+/home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/definitions.rs:
+/home/d/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.6/src/state/table.rs:
