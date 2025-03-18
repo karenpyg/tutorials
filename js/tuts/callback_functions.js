@@ -40,3 +40,4 @@ const multiplebytwo = number => number * 2;
 let multiplied_numbers = numbers.map(multiplebytwo);
 console.log(multiplied_numbers);
 
+
