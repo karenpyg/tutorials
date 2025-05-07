@@ -1,7 +1,37 @@
 package main 
 
+import ( 
+	"fmt"
+	"maps"
+)
 
+type Door interface {
+	getHeight() int 
+	getWidth() int 
+	getMaterial() map 
+}
 
+type WoodenDoor struct {
+	height int 
+	width int 
+	material map
+}
+
+func NewWoodenDoor(height, width int, material map) *WoodenDoor {
+	return &WoodenDoor{height: height, width: width, material: material}
+}
+
+func (w *WoodenDoor) getHeight() int {
+	return w.height
+}
+
+func (w *WoodenDoor) getWidth() int {
+	return w.width
+}
+
+func (w *WoodenDoor) getMaterial map {
+	
+}
 
 // import (
 // 	"fmt"
